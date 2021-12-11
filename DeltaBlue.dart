@@ -34,6 +34,8 @@
  * implementation.
  */
 
+// @dart=2.10
+
 import 'dart:io';
 
 //Greg: Not using the dart benchmark harness, so I can observe warm up behaviour.
