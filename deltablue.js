@@ -132,7 +132,7 @@ Strength.prototype.nextWeaker = function () {
 
 // Strength constants.
 Strength.REQUIRED        = new Strength(0, "required");
-Strength.STONG_PREFERRED = new Strength(1, "strongPreferred");
+Strength.STRONG_PREFERRED = new Strength(1, "strongPreferred");
 Strength.PREFERRED       = new Strength(2, "preferred");
 Strength.STRONG_DEFAULT  = new Strength(3, "strongDefault");
 Strength.NORMAL          = new Strength(4, "normal");
